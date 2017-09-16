@@ -1,0 +1,2 @@
+D:\Гришина папка\Программирование\Snake\snake.git\snake\snake\bin\Debug\snake.exe.config
+D:\Гришина папка\Программирование\Snake\snake.git\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
